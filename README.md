@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ![](test.mp4)
 
 <video width="320" height="240" controls>
-  <source src="test.mp4" type="video/mp4">
+  <source src="/test.mp4" type="video/mp4">
 </video>
